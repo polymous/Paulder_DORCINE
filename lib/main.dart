@@ -109,7 +109,7 @@ class _GamePageState extends State<GamePage> {
           ),
           const SizedBox(height: 10),
           const Text(
-            "💡 Chak erè se yon opòtinite pou aprann. Kenbe fèm! 🚀",
+            "E ou l ye!🚀",
             textAlign: TextAlign.center,
             style: TextStyle(
                 fontSize: 16,
